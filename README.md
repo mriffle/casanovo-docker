@@ -17,5 +17,5 @@ This command includes parameters to ensure process runs as the current user and 
 
 ## More Information:
 
-More information about Casanovo: https://github.com/Noble-Lab/casanovo
-How to Run Casanovo using a Nextflow workflow: https://nf-ms-dda-casanovo.readthedocs.io/
+- More information about Casanovo: https://github.com/Noble-Lab/casanovo
+- How to Run Casanovo using a Nextflow workflow: https://nf-ms-dda-casanovo.readthedocs.io/
