@@ -2,7 +2,7 @@
 Build a Casanovo Docker image
 
 ## How to Build:
-This will build a Docker image named `casanovo:4.2.1` on your local system:
+Clone this repository then run this command to build a Docker image named `casanovo:4.2.1` on your local system:
 
 `docker build --build-arg CASANOVO_VERSION=4.2.1 -t casanovo:4.2.1 .`
 
